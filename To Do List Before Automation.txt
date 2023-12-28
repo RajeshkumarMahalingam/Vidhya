@@ -1,0 +1,7 @@
+1. Delete two Folders inside fileupload folder.
+2. Test Data preparation.(Date and appointment date).
+3. Delete logs reports output and all screenshots under robot driver before running automation script.
+4. If require take code backup.
+5. Run temporary file clean and kill chrome exe batch files.
+6. Update control panel settings page.
+7. Clear the status in result excel sheet.
